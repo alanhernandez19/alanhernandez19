@@ -50,7 +50,9 @@ Estoy organizando un catálogo progresivo de **nuevos proyectos profesionales de
 
 Cada caso buscará documentar contexto, datos publicables, exploración, ETL, KPI, dashboard, validaciones y conclusiones de negocio. Los ejercicios históricos son referencias privadas de aprendizaje; no se publicarán como si fueran las nuevas soluciones. Los datos se compartirán únicamente tras verificar su procedencia, privacidad y condiciones de redistribución.
 
-**El catálogo y la web de proyectos se incorporarán conforme sus contenidos estén revisados y listos para publicación.**
+**[Explorar el repositorio central AH — metodología, trayectoria, calidad y catálogo](https://github.com/alanhernandez19/AH-Business-Intelligence-Portfolio)**
+
+El catálogo de casos y la web se incorporarán progresivamente conforme sus contenidos estén revisados y listos para publicación.
 
 ## Contacto
 
